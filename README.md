@@ -1,3 +1,9 @@
 # ML-Tensor
 
-Tensor Flow Project
+Tensor Flow - Keras Project
+
+Cat vs Dog Classification (Convolutional Neural Net)
+
+
+
+
